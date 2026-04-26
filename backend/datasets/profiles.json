@@ -1,0 +1,178 @@
+[
+  {
+    "profile_id": "profile-1",
+    "created_at": "2026-04-25T18:35:37.211621+00:00",
+    "name": "Amina",
+    "grades": [
+      {
+        "subject": "Mathematics",
+        "grade": 88.0
+      },
+      {
+        "subject": "Physics",
+        "grade": 62.0
+      }
+    ],
+    "strongest_subject": "Mathematics",
+    "weakest_subject": "Physics",
+    "interests": [
+      "robotics"
+    ],
+    "coordinates": null
+  },
+  {
+    "profile_id": "profile-2",
+    "created_at": "2026-04-25T18:44:08.053730+00:00",
+    "name": "Student",
+    "grades": [
+      {
+        "subject": "Mathematics",
+        "grade": 76.0
+      },
+      {
+        "subject": "Physics",
+        "grade": 78.0
+      },
+      {
+        "subject": "Chemistry",
+        "grade": 78.0
+      },
+      {
+        "subject": "Biology",
+        "grade": 78.0
+      },
+      {
+        "subject": "History",
+        "grade": 78.0
+      },
+      {
+        "subject": "Language Arts",
+        "grade": 78.0
+      }
+    ],
+    "strongest_subject": "Mathematics",
+    "weakest_subject": "Physics",
+    "interests": [
+      "robotics",
+      "exam prep"
+    ],
+    "coordinates": null
+  },
+  {
+    "profile_id": "profile-3",
+    "created_at": "2026-04-26T04:59:32.563097+00:00",
+    "name": "Student",
+    "grades": [
+      {
+        "subject": "Mathematics",
+        "grade": 78.0
+      },
+      {
+        "subject": "Physics",
+        "grade": 78.0
+      },
+      {
+        "subject": "Chemistry",
+        "grade": 78.0
+      },
+      {
+        "subject": "Biology",
+        "grade": 78.0
+      },
+      {
+        "subject": "History",
+        "grade": 78.0
+      },
+      {
+        "subject": "Language Arts",
+        "grade": 78.0
+      }
+    ],
+    "strongest_subject": "Mathematics",
+    "weakest_subject": "Physics",
+    "interests": [
+      "robotics",
+      "exam prep"
+    ],
+    "coordinates": null
+  },
+  {
+    "profile_id": "profile-4",
+    "created_at": "2026-04-26T05:17:47.860318+00:00",
+    "name": "Student",
+    "grades": [
+      {
+        "subject": "Mathematics",
+        "grade": 78.0
+      },
+      {
+        "subject": "Physics",
+        "grade": 78.0
+      },
+      {
+        "subject": "Chemistry",
+        "grade": 78.0
+      },
+      {
+        "subject": "Biology",
+        "grade": 78.0
+      },
+      {
+        "subject": "History",
+        "grade": 78.0
+      },
+      {
+        "subject": "Language Arts",
+        "grade": 78.0
+      }
+    ],
+    "strongest_subject": "Mathematics",
+    "weakest_subject": "Physics",
+    "interests": [
+      "robotics",
+      "exam prep"
+    ],
+    "coordinates": null
+  },
+  {
+    "profile_id": "profile-5",
+    "created_at": "2026-04-26T05:31:18.768404+00:00",
+    "name": "Student",
+    "grades": [
+      {
+        "subject": "Mathematics",
+        "grade": 78.0
+      },
+      {
+        "subject": "Physics",
+        "grade": 78.0
+      },
+      {
+        "subject": "Chemistry",
+        "grade": 78.0
+      },
+      {
+        "subject": "Biology",
+        "grade": 78.0
+      },
+      {
+        "subject": "History",
+        "grade": 78.0
+      },
+      {
+        "subject": "Language Arts",
+        "grade": 78.0
+      }
+    ],
+    "strongest_subject": "Mathematics",
+    "weakest_subject": "Physics",
+    "interests": [
+      "robotics",
+      "exam prep"
+    ],
+    "coordinates": {
+      "lat": 51.10253651863888,
+      "lng": 71.42921652106911
+    }
+  }
+]

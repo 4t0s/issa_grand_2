@@ -1,0 +1,21 @@
+{
+  "topic": "Physics",
+  "modules": [
+    {
+      "title": "Mechanics Basics",
+      "content": "A lightweight offline primer covering motion, force, and everyday mechanics examples.",
+      "video": "placeholder_url/mechanics-basics"
+    },
+    {
+      "title": "Energy and Motion Lab Notes",
+      "content": "Downloadable notes for kinetic energy, work, and momentum with short practice prompts.",
+      "video": "placeholder_url/energy-motion"
+    },
+    {
+      "title": "Forces in the Real World",
+      "content": "Context-aware examples that connect classroom physics to transport, weather, and local infrastructure.",
+      "video": "placeholder_url/forces-real-world"
+    }
+  ]
+}
+
